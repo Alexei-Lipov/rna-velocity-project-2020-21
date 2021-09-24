@@ -1,1 +1,1 @@
-# rna-velocity-project-2020-21
+# RNA Velocity Project 2020-21
